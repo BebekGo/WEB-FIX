@@ -32,7 +32,7 @@
   grid-area: 1 / 2 / 14 / 12;
   z-index: 1;
 
-  background: url(LOGOAKK.png) no-repeat center;
+  background: url(/static/LOGOAKK.png) no-repeat center;
   background-size: contain;
   min-width: 85px;
   max-width: 85px;
